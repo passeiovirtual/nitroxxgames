@@ -58,6 +58,8 @@ window_B2216DB0_A9A1_0728_41C4_FB354CBDFD3B.title = Canto Sagrado
 ## Action
 
 ### URL
+LinkBehaviour_9529DA15_B221_3F14_41E4_D188F05D64EF.source = https://nitroxxburger.ola.click/products
+LinkBehaviour_9623C6EF_B1DF_1735_41D5_069D20759C37.source = https://nitroxxburger.ola.click/products
 LinkBehaviour_9E1D1FA3_AE2D_10AB_41D5_D22F9DBFF74D.source = https://www.instagram.com/nitroxxgames/
 LinkBehaviour_A1503E33_B222_EE3B_41C1_677959D66C63.source = https://www.instagram.com/nitroxxgames/
 LinkBehaviour_A150FE32_B222_EE35_41C8_88947F17C538.source = https://www.instagram.com/nitroxxgames/
