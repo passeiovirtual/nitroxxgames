@@ -37,6 +37,7 @@ panorama_A5F52C58_A961_1ED2_41E0_0B056FF44623.label = 6
 panorama_A5F5B377_A961_0ADE_41E4_EF228FBE95FC.label = 15
 panorama_A5F5C278_A961_0AD2_41BA_19B5A89A93F0.label = 4
 panorama_A5F5C5B3_A961_0E57_41DC_C9827077EEC7.label = 14
+panorama_B06DC927_BDB8_4DE7_41E4_733A0F94B208.label = Nitroxx - Pedro Ludovico_ (CORRIGIDO 2)
 photo_B3E05366_A9DF_0328_41CA_CCE99FEF8069.label = LOGO NITROXX BURGUER
 photo_B61E71F3_AF61_1F29_41E1_E8AD764B5599.label = LOGO NITROXX - PNG
 video_966913DE_B227_0D14_41D8_8E2B9F0F1E3A.label = VIDEO - FLIPERAMA
@@ -70,6 +71,15 @@ LinkBehaviour_A2939315_B226_F7FF_41CA_FABB4B298826.source = https://www.instagra
 LinkBehaviour_A48C75BB_B221_322A_41DD_36C4992338DC.source = https://nitroxxburger.ola.click/products
 LinkBehaviour_A4A80E13_B222_F1FA_41DB_25292807716B.source = https://api.whatsapp.com/send?phone=5562985303132&text=Ol%C3%A1%2C%20vim%20do%20seu%20Passeio%20Virtual%20e%20gostaria%20de%20saber%20mais%20sobre...
 LinkBehaviour_A4D2F63B_B223_1E2A_41E3_A3AEB244AC84.source = https://api.whatsapp.com/send?phone=5562985303132&text=Ol%C3%A1%2C%20vim%20do%20seu%20Passeio%20Virtual%20e%20gostaria%20de%20saber%20como%20comemorar%20meu%20anivers%C3%A1rio%20ai%20na%20Nitroxx..
+LinkBehaviour_AA130139_BF98_5DEB_41E7_73A3F8645814.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
+LinkBehaviour_AA6F6EB2_BF98_C4F9_41E3_98253E4D11FA.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
+LinkBehaviour_AB1855F9_BF98_446B_41E3_E69CCED33ECE.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
 LinkBehaviour_AB197795_B223_3EFE_41E2_68E5C93CF719.source = https://api.whatsapp.com/send?phone=5562985303132&text=Ol%C3%A1%2C%20vim%20do%20seu%20Passeio%20Virtual%20e%20gostaria%20de%20saber%20como%20comemorar%20meu%20anivers%C3%A1rio%20ai%20na%20Nitroxx..
 LinkBehaviour_AB4070FE_B221_122A_41D0_75B86541CE84.source = https://api.whatsapp.com/send?phone=5562985303132&text=Ol%C3%A1%2C%20vim%20do%20seu%20Passeio%20Virtual%20e%20gostaria%20de%20saber%20mais%20sobre...
 LinkBehaviour_AB7FE49B_B221_12EA_41E4_B706A525E3C8.source = https://nitroxxburger.ola.click/products
+LinkBehaviour_AC62EFB5_BE88_44FB_41E4_2F6C24610215.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
+LinkBehaviour_ACBC52E3_BE88_7C9F_41B1_A1782B5EB1E4.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
+LinkBehaviour_ACF57B57_BE88_CDA7_41D8_B003E530881A.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
+LinkBehaviour_AD6CA5DF_BE88_44A6_41C8_284F3E319B6D.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
+LinkBehaviour_AD6ED145_BE8B_DD9B_41E7_5894BADED4BF.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
+LinkBehaviour_AFF4C49C_BE89_C4A9_41E2_5568CB07DE87.source = https://www.fujioka.com.br/busca/?q=fujioka-gamer&pageType=hotsite#
