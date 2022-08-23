@@ -1,5 +1,5 @@
 {
- "theme_color": "#000000",
+ "start_url": "index.htm",
  "name": "Passeio Virtual 360º - Nitroxx Games",
  "description": "Conheça toda à nossa estrutura em 360º. ",
  "display": "fullscreen",
@@ -40,6 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#000000",
- "start_url": "index.htm"
+ "theme_color": "#000000",
+ "background_color": "#000000"
 }

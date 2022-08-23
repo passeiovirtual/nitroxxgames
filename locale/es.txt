@@ -11,8 +11,8 @@ tour.name = Passeio Virtual 360º - Nitroxx Games
 ## Skin
 
 ### Button
-Button_A021923B_B23F_762B_41C9_D88AE6B679EB.label = Nitroxx Burguer 
-Button_A021923B_B23F_762B_41C9_D88AE6B679EB_mobile.label = Nitroxx Burguer
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB.label = Nitroxx Burger 
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB_mobile.label = Nitroxx Burger
 Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A.label = Aniversários
 Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A_mobile.label = Aniversários
 Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4.label = Arena PC
@@ -40,6 +40,7 @@ panorama_A5F5C5B3_A961_0E57_41DC_C9827077EEC7.label = 14
 panorama_B06DC927_BDB8_4DE7_41E4_733A0F94B208.label = Nitroxx - Pedro Ludovico_ (CORRIGIDO 2)
 photo_B3E05366_A9DF_0328_41CA_CCE99FEF8069.label = LOGO NITROXX BURGUER
 photo_B61E71F3_AF61_1F29_41E1_E8AD764B5599.label = LOGO NITROXX - PNG
+photo_D9BFB675_C8AD_5BD3_41E7_2003CB3FD9B8.label = LOGO NITROXX - CORRETA
 video_966913DE_B227_0D14_41D8_8E2B9F0F1E3A.label = VIDEO - FLIPERAMA
 video_B05EE78D_AEA7_03F8_41D5_8AB09CDCE5E4.label = RPReplay_Final1660764851
 video_BA1CB5BC_A9A1_0E51_41C7_D306D7E8D546.label = RPReplay_Final1660706634 2
@@ -49,8 +50,10 @@ video_BBBDA416_A9E7_0E5E_41DB_37196ED8778C.label = RPReplay_Final1660703920
 ## Popup
 
 ### Body
-htmlText_B33384CA_A9DF_0578_41D5_B39C4E12C041.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;font-size:15px;">E se bater aquela fome na hora do jogo?</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;font-size:15px;">Não se preocupe, dentro da nossa unidade temos também a Nitroxx Burguer. Você vai experimentar o melhor lanche da sua vida!</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;font-size:15px;">#VEMPRANITROXX</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_B33384CA_A9DF_0578_41D5_B39C4E12C041.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;font-size:15px;">E se bater aquela fome na hora do jogo?</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;font-size:15px;">Não se preocupe, dentro da nossa unidade temos também a Nitroxx Burger. Você vai experimentar o melhor lanche da sua vida!</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;font-size:15px;">#VEMPRANITROXX</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
 htmlText_B7785874_AF63_0D2F_41CF_880494A42D7C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc3300;">Nosso cantinho Sagrado!</SPAN><SPAN STYLE="color:#cc3300;"><B><BR/></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc3300;">Aqui ficam expostas algumas das nossas maiores conquistas nas competições que participamos, chega mais e confere.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc3300;"><B/></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc3300;"><B>#VEMPRANITROXX</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_D9BA9D9B_C8AD_E956_41AB_83E267AC3DF7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;">Aqui na Arena Console nós contamos com: Play 4, Play 5 &amp; Xbox Série 5, para você se divertir!</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_DA885F6B_C8ED_A9F7_41B7_0496D97F3FC2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;">Aqui na Arena PC todas ás nossas maquinas contam com; Processadores I5 9° Geração,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;">Placa de Vídeo GTX 1660, 16 GB de Memória RAM, SSD M2 500GB, &amp; MONITORES 27 165HZ.</SPAN></SPAN></DIV></BODY></HTML></div>
 
 ### Title
 window_B2216DB0_A9A1_0728_41C4_FB354CBDFD3B.title = Canto Sagrado
@@ -60,9 +63,7 @@ window_B2216DB0_A9A1_0728_41C4_FB354CBDFD3B.title = Canto Sagrado
 ### URL
 LinkBehaviour_9529DA15_B221_3F14_41E4_D188F05D64EF.source = https://nitroxxburger.ola.click/products
 LinkBehaviour_9623C6EF_B1DF_1735_41D5_069D20759C37.source = https://nitroxxburger.ola.click/products
-LinkBehaviour_9E1D1FA3_AE2D_10AB_41D5_D22F9DBFF74D.source = https://www.instagram.com/nitroxxgames/
 LinkBehaviour_A1503E33_B222_EE3B_41C1_677959D66C63.source = https://www.instagram.com/nitroxxgames/
-LinkBehaviour_A150FE32_B222_EE35_41C8_88947F17C538.source = https://www.instagram.com/nitroxxgames/
 LinkBehaviour_A1514E34_B222_EE3D_41D0_DFF942C3FB0A.source = https://pt-br.facebook.com/nitroxxgames/
 LinkBehaviour_A1531E3B_B222_EE2B_41D8_DBB498E1C480.source = https://www.google.com/maps/dir//localiza%C3%A7%C3%A3o+nitroxx+games/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x935ef17ca199916d:0xa60743bf52bdb043?sa=X&ved=2ahUKEwiKjJi_7sr5AhXbDrkGHQcQC6EQ9Rd6BAhWEAU
 LinkBehaviour_A292E31A_B226_F7F5_41E4_151037E86E18.source = https://www.google.com/maps/dir//localiza%C3%A7%C3%A3o+nitroxx+games/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x935ef17ca199916d:0xa60743bf52bdb043?sa=X&ved=2ahUKEwiKjJi_7sr5AhXbDrkGHQcQC6EQ9Rd6BAhWEAU
